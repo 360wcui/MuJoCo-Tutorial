@@ -1,0 +1,5 @@
+.idea
+Miniforge3-MacOSX-arm64.sh
+__pycache__/
+examples/__pycache__
+MUJOCO_LOG.TXT
